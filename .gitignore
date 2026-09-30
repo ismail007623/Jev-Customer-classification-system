@@ -1,0 +1,33 @@
+# Environment
+.env
+.env.local
+*.env
+!.env.example
+!.env.local.example
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+*.egg-info/
+
+# Node
+node_modules/
+.next/
+out/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+dump.rdb
+
+test.py
+testt.py
+test.ipynb
